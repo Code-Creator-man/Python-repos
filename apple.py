@@ -11,5 +11,5 @@ if my_choice in linux_choices:
     else:
         print(f"I prefer {linux_choice}")
 else:
-    print("That's not a fruit I know")
+    print("That's not a fruit I know!")
 
