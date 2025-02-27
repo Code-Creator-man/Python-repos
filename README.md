@@ -35,7 +35,7 @@ We welcome contributions from AI and big data enthusiasts! If you're interested 
 This project is licensed under the **MIT License** - feel free to use, modify, and distribute it.
 
 ## 📬 Contact
-For inquiries or collaboration opportunities, reach out via **[GitHub Issues](https://github.com/your-repo/issues)** or email us at **contact@yourproject.com**.
+For inquiries or collaboration opportunities, reach out via **[GitHub Issues](https://github.com/your-repo/issues)** or email us at **Berdimuhammet0770@outlook.com**.
 
 ---
 Stay tuned for updates and breakthroughs in AI & Big Data! 🚀
