@@ -39,3 +39,46 @@ For inquiries or collaboration opportunities, reach out via **[GitHub Issues](ht
 
 ---
 Stay tuned for updates and breakthroughs in AI & Big Data! 🚀
+
+# Turkmen Version of README.md
+# 🚀 AI & Big Data Taslamalary
+
+**AI & Big Data** açyk kodly taslamamyza hoş geldiňiz! Bu repositoriýa, täzeçe tehnologiýalary we uly maglumatlary işlemek üçin suný ýasamaýan artificial intelligence we big data çözgütlerini ösdürmäge bagyşlanandyr. Häzirki wagtda taslama başlangyç ösüş tapgyryndadyr, ýöne biziň maksadymyz uly täsir ediji gural we çäklendirmeler döretmekdir.
+
+## 📌 Taslama Barada
+Taslamamyz uly maglumat toplumlaryny üstünlikli işlemek, manysly netijeler çykarmak we masştablaýyn maşyn öwreniş modellerini üpjün etmek üçin AI esasyndaky çözgütleri gurmak bilen meşgullanýar. Biz aşakdaky täzeçe tehnologiýalary ulanýarys:
+- **Maşyn Öwreniş** 🧠
+- **Çuň Maşyn Öwreniş** 🤖
+- **Tejribeçi Dil Işleme (NLP)** 🗣️
+- **Uly Maglumat Analitikasy** 📊
+- **Bulut Tehnologiýalary & Masştablaýyn AI** ☁️
+
+## 🎯 Başlangyç Ösüş Plany
+Biz esaslary döretmek bilen başlarys:
+1. **Maglumat Toplama & Öňünden Işleme**: Uly maglumat toplumlaryny üstünlikli ýygnamak, arassalamak we öňünden işlemek.
+2. **Masştablaýyn Maglumat Saklamak**: Bulut we paýlaşylan saklamak çözgütlerini ulanmak (meselem, Hadoop, Spark ýa-da AWS S3).
+3. **Maşyn Öwreniş Pipelines**: Taýýarlamak, baha bermek we ýerleşdirmek üçin awtomatlaşdyrylan pipeline gurmak.
+4. **NLP Esasyndaky Analiz Moduly**: Sentiment analizi we tekst klassifikasiýasy üçin başlangyç modelleri ösdürmek.
+5. **Hakyky Wagtda Maglumat Işleme**: Apache Kafka ýa-da Flink bilen akymly maglumat analitikasyny amala aşyrmak.
+
+## 📅 Ösüş Plany
+✅ **1-nji Tapgyr**: Esas arhitektura, maglumat toplama we saklamak üpjünçiligi.<br>
+⏳ **2-nji Tapgyr**: Başlangyç AI modelleri, synaglar we işlendigi üýtgetmek.<br>
+⏳ **3-nji Tapgyr**: Kämil AI integrasiýasy, masştablaýyn üýtgeşmeler we bulut ýerleşdirilmegi.<br>
+⏳ **4-nji Tapgyr**: Açyk beta synaglar we jemgyýetçilik pikiri.
+
+## 🤝 Goşant Goşmak
+AI we uly maglumat bilen gyzyklanýanlaryň goşant goşmagyna açykdyr! Eger hyzmatdaşlyk etmek isleseňiz:
+1. Bu repositoriýany fork ediň.
+2. Ony lokal maşynyňyza klonlaň.
+3. Täze şahamça dörediň (`feature-xyz`).
+4. Jikme-jiklikli resminamalar bilen pull request (PR) iberiň.
+
+## 📜 Lisenziýa
+Bu taslama **MIT Lisenziýasy** astynda - azatlyk bilen ulanyň, üýtgediň we paýlaşyň.
+
+## 📬 Habarlaşmak
+Soraglaryňyz ýa-da hyzmatdaşlyk mümkinçilikleri üçin **[GitHub Issues](https://github.com/your-repo/issues)** arkaly ýa-da **Berdimuhammet0770@outlook.com** üsti bilen habarlaşyň.
+
+---
+AI & Big Data-daky täzelikler we üstünlikler üçin gözegçilikde boluň! 🚀
