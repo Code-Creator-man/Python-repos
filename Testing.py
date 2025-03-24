@@ -1,18 +1,5 @@
-# print("Hi, what is your name ?")
-# name = input("Me:")
-# while name == "":
-#     print("Dont you tell your name?")
-#     name = input("Me:")
-#     print(f"Nice to meet you {name}!")
 
-# print("What is your favorite animal?")
-# animal = input("You: ")
-# print(f"{animal} is great choice!")
 
-# print("Who are you?")
-# first = input("first name: ")
-# sur = input("Surname: ")
-# print(f"your full name is {first} {sur}")
 
 # print("what is your age?")
 # age = int(input("Age: "))
