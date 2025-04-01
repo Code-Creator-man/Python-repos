@@ -14,10 +14,10 @@
 
 # Bank 
 passw = 1234
-guess = input("Enter:")
+guess = int(input("Enter:"))
 while guess != passw:
     print(f"{guess} is wrong password")
-    guess = input("Please try again!:")
+    guess = int(input("Please try again!:"))
     # while guess == passw:
     #     print("You have successfully Logged in!")
     
